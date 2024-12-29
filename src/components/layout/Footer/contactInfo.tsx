@@ -12,12 +12,12 @@ interface Info {
 const contactInfo: Info[] = [
   {
     icon: Location,
-    text: '90, Ojodu Akute Road, Ajayi Farms Bus-Stop.',
+    text: '30 Ibari St, off Iju Road, Ifako Agege, Lagos.',
     alt: 'Address',
   },
   {
     icon: Email,
-    text: 'churchadmin@tfhconline.net',
+    text: 'rccgfaithsanctuary@gmail.com',
     type: 'email',
     alt: 'Email',
   },

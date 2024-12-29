@@ -49,7 +49,9 @@ function ContactSection() {
               Log out
             </Button>
           </>
+          
         ) : (
+            
           <>
             <p className='font-secondary font-semibold mb-[15px]'>Have an account?</p>
             <div className='flex gap-[29px]'>
@@ -61,7 +63,8 @@ function ContactSection() {
               <Link href='/auth/register'>
                 <Button className='!w-[110px] !h-[35px] !text-sm !bg-black !border-white !border !text-white hover:!bg-white hover:!text-black'>
                   Sign up
-                </Button>
+              </Button>
+              
               </Link>
             </div>
           </>

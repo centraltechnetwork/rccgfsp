@@ -12,17 +12,17 @@ const socialLinks: Link[] = [
   {
     alt: 'Youtube Channel',
     src: YoutubeIcon,
-    destination: 'https://www.youtube.com/@TFHCOnlineTv',
+    destination: 'https://youtube.com/@rccgfsplp7769?si=NaN_wulbgtXjSHoL',
   },
   {
     alt: 'Facebook Profile',
     src: FacebookIcon,
-    destination: 'https://www.facebook.com/tfhcng',
+    destination: 'https://web.facebook.com/faithsanctuaryparish.lagos.75',
   },
   {
     alt: 'Instagram Profile',
     src: InstagramIcon,
-    destination: 'https://www.instagram.com/tfhcng/',
+    destination: '#',
   },
 ];
 

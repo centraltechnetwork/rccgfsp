@@ -12,31 +12,31 @@ const offlineChannels: {
   accountNumber: string;
 }[] = [
   {
-    accountName: "The Father's House Church",
+    accountName: "RCCG FAITH SANCTUARY",
     accountNumber: '001 0916 633',
     color: '#DE4A09',
     icon: gtbIcon,
   },
   {
-    accountName: "The Father's House Church",
+    accountName: "RCCG FAITH SANCTUARY",
     accountNumber: '366 2370 022',
     color: '#5A0B4D',
     icon: fcmbIcon,
   },
   {
-    accountName: "The Father's House Church",
+    accountName: "RCCG FAITH SANCTUARY",
     accountNumber: '101 6346 517',
     color: '#D61B0C',
     icon: ubaIcon,
   },
   {
-    accountName: "The Father's House Church",
+    accountName: "RCCG FAITH SANCTUARY",
     accountNumber: '202 1398 890',
     color: '#03476E',
     icon: fbnIcon,
   },
   {
-    accountName: "The Father's House Church",
+    accountName: "RCCG FAITH SANCTUARY",
     accountNumber: '101 0811 367',
     color: '#808285',
     icon: zenithIcon,

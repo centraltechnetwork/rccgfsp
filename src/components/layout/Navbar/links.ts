@@ -25,7 +25,7 @@ const links: Link[] = [
     destination: '/resources',
   },
   {
-    title: 'Find A Church',
+    title: 'Locate Us',
     destination: '/church-locations',
   },
   {

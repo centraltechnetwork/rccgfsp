@@ -8,19 +8,19 @@ const WelcomeSection = () => {
   return (
     <section id='welcome' className='px-primary homepage-welcome-bg pt-[28px]'>
       <div className='lg:grid lg:grid-cols-2 items-center gap-10 flex flex-col-reverse'>
-        <Image src={WelcomeImage} alt='Welcome' />
+        <Image src={WelcomeImage} alt='Welcome' style={{ width: '8000px', height: 'auto' }} />
         <div className='flex flex-col items-center lg:items-start text-center lg:text-left lg:mb-10'>
           <h2 className='text-secondary lg:text-4xl text-[26px] font-secondary font-semibold mb-[27px]'>
             You&apos;re welcome to worship with us
           </h2>
           <p className='font-normal mb-[9px] text-xl'>
-            As Senior Pastors of The Father&apos;s House, this is an auspicious moment to
+            As Senior Pastors of RCCG FAITH SANCTUARY, this is an auspicious moment to
             share with you God&apos;s mandate upon our hearts. We believe that you are
             created for glory. That is why He has ordained us at this very hour and time
             to reach you and welcome you into the fold.
           </p>
           <p className='font-bold text-xl mb-[50px]'>
-            - APOSTLE RICHARD & REV. EDITH UDOH
+            - PASTOR SHOLA & TOMI SANNI
           </p>
           <Link href='/about'>
             <Button className='!w-[230px]'>More About Us</Button>

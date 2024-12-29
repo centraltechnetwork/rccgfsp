@@ -9,7 +9,7 @@ const nextConfig = {
     API_KEY: 'TFH_ADMIN',
     YOUTUBE_API_KEY: 'AIzaSyBR2Wg2mC2BTHj0ONibXzPyNpnhL2Egjxg',
     YOUTUBE_UPLOAD_KEY: 'UU4jT_fVaY8Yf_FkWaDphPPg',
-    YOUTUBE_CHANNEL_ID: 'UC4jT_fVaY8Yf_FkWaDphPPg',
+    YOUTUBE_CHANNEL_ID: 'UCLJlmYvU_qEzLOIWsErnEMQ',
   },
   images: {
     domains: ['i.ytimg.com', 'res.cloudinary.com'],

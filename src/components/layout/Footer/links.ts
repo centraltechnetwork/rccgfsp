@@ -25,10 +25,10 @@ const links: Link[] = [
       title: 'Connect',
       subLinks: [
         { name: 'Location', destination: '/church-locations' },
-        { name: "Father's Menu", destination: '/devotional' },
+        { name: "Devotional", destination: '/devotional' },
         {
           name: 'Get Our App',
-          destination: 'https://play.google.com/store/apps/details?id=com.tfhmobile',
+          destination: '#',
           external: true,
         },
         { name: 'Join Online', destination: '/media' },

@@ -1,4 +1,4 @@
-import { useAppDispatch, useAppSelector } from '@/store/hooks';
+/*import { useAppDispatch, useAppSelector } from '@/store/hooks';
 import Image from 'next/image';
 import React, { useEffect } from 'react';
 import CancelIcon from '@/assets/svgs/layout/cancel.svg';
@@ -55,4 +55,4 @@ function MobileDownloadBar() {
   );
 }
 
-export default MobileDownloadBar;
+export default MobileDownloadBar;*/

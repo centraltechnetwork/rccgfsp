@@ -1,7 +1,7 @@
 // import { useEffect, useRef } from 'react';
 // import gsap from 'gsap';
 import AnnouncementSection from '@/components/homepage/AnnouncementSection';
-import DevotionalSection from '@/components/homepage/DevotionalSection';
+/*import DevotionalSection from '@/components/homepage/DevotionalSection';*/
 import DirectionSection from '@/components/homepage/DirectionSection';
 import DownloadAppSection from '@/components/homepage/DownloadAppSection';
 import EventSection from '@/components/homepage/EventSection';
@@ -50,7 +50,6 @@ export default function Home() {
       <HeroSection />
       <WelcomeSection />
       <LinkSection />
-      <DevotionalSection />
       <WorshipSection />
       <WorshipExperienceSection />
       <DownloadAppSection />
