@@ -7,7 +7,7 @@ const Header = () => {
         The Father's Menu
       </h1>
       <p className='font-normal text-lg md:text-xl lg:text-2xl'>
-        The devotional of The Father's House Church
+        The devotional of The Faith Sanctuary Church
       </p>
     </header>
   );
