@@ -1,8 +1,8 @@
-import fcmbIcon from '@/assets/images/giving/fcmb.svg';
-import fbnIcon from '@/assets/images/giving/first-bank.svg';
+import fcmbIcon from '@/assets/images/giving/jubilee.svg';
+//import fbnIcon from '@/assets/images/giving/first-bank.svg';
 import gtbIcon from '@/assets/images/giving/gtb.svg';
-import ubaIcon from '@/assets/images/giving/uba.svg';
-import zenithIcon from '@/assets/images/giving/zenith.svg';
+//import ubaIcon from '@/assets/images/giving/uba.svg';
+//import zenithIcon from '@/assets/images/giving/zenith.svg';
 import { StaticImageData } from 'next/image';
 
 const offlineChannels: {
@@ -13,16 +13,17 @@ const offlineChannels: {
 }[] = [
   {
     accountName: "RCCG FAITH SANCTUARY",
-    accountNumber: '001 0916 633',
-    color: '#DE4A09',
+    accountNumber: '177 189 2589 ',
+    color: '#5A0B4D',
     icon: gtbIcon,
   },
   {
     accountName: "RCCG FAITH SANCTUARY",
-    accountNumber: '366 2370 022',
+    accountNumber: '000 047 1426',
     color: '#5A0B4D',
     icon: fcmbIcon,
-  },
+    },
+  /*
   {
     accountName: "RCCG FAITH SANCTUARY",
     accountNumber: '101 6346 517',
@@ -41,6 +42,7 @@ const offlineChannels: {
     color: '#808285',
     icon: zenithIcon,
   },
+  */
 ];
 
 export default offlineChannels;

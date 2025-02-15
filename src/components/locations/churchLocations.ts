@@ -5,20 +5,24 @@ export interface LocationType {
 
 const churchLocations: LocationType[] = [
   {
-    name: 'HEADQUARTERS',
-    address: '90, Ojodu-Akute Road, Ajayi Farm Busstop, Akute',
+    name: 'PHOEBE CENTRE',
+    address: 'Abuja Zone Estate, Block 118 flat 6 Host: Mummy Adeyemo Phone Number: 08033507035	',
   },
   {
-    name: 'MOWE CHURCH',
-    address: '3, Transformation Avenue, Opposite Omapet Filling Station, Ofada Road Mowe',
+    name: 'Miracle Centre',
+    address: '19 Adeshola Akande Street Host: Dcn. Adetayo ADEYEYE Phone Number: 08087180761',
   },
   {
-    name: 'IBADAN CHURCH',
-    address: 'Ologuneru, Beside Ekerin Junction. New Eleyele, Ibadan',
+    name: 'LIFE CENTRE',
+    address: 'Block 72 flat 2 LSDPC Estate Pen-Cinema Host: Dcns. Bukola ADESOLA Phone Number: 08097764980',
   },
   {
-    name: 'AREPO CHURCH',
-    address: '1/3 Eruobodo Plaza, Journalist Estate Road, Arepo',
+    name: 'Goshen Centre',
+    address: '1LSDPC Medium housing Estate, phase 3 block 122 flat 1 Host: A/p Akinwale OMOTOSO Phone Number: 08033028324',
+  },
+  {
+    name: 'Glory of God',
+    address: '26 Omomo Street, Host: Sis Osoba Anuoluwapo Phone Number: 08022892085',
   },
 ];
 

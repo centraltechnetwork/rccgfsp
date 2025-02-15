@@ -22,7 +22,7 @@ const socialLinks: Link[] = [
   {
     alt: 'Instagram Profile',
     src: InstagramIcon,
-    destination: '#',
+    destination: 'https://www.instagram.com/rccgfaithsanctuary_lp77?igsh=OTd0NXFianZ1M25x',
   },
 ];
 

@@ -1,12 +1,12 @@
 import { StaticImageData } from 'next/image';
-import revUdohImage from '@/assets/images/about/pastors/apostle-udoh.webp';
-import mamaReeImage from '@/assets/images/about/pastors/mama-ree.webp';
-import pasFidelisImage from '@/assets/images/about/pastors/pas-fidelis.webp';
-import pasOmojuwaImage from '@/assets/images/about/pastors/pas-omojuwa.webp';
-import pasSolaImage from '@/assets/images/about/pastors/pas-sola.webp';
-import revEdithImage from '@/assets/images/about/pastors/rev-edith.webp';
-import revOshiyemiImage from '@/assets/images/about/pastors/rev-oshiyemi.webp';
-import revTomiImage from '@/assets/images/about/pastors/rev-tomi.webp';
+import pasSanniImage from '@/assets/images/about/pastors/pastor-sanni.webp';
+import mamaTomiImage from '@/assets/images/about/pastors/mama-tomi.webp';
+import pasemmaImage from '@/assets/images/about/pastors/pasemma.webp';
+import pastoluImage from '@/assets/images/about/pastors/pastoluImage.webp';
+import pasadesolaImage from '@/assets/images/about/pastors/pasadesola.webp';
+import pasadeyemoImage from '@/assets/images/about/pastors/pastor-adeyemo.webp';
+import pasbabatopeImage from '@/assets/images/about/pastors/pas-babatope.webp';
+import pasomotoshoImage from '@/assets/images/about/pastors/pas-omotosho.webp';
 
 export type PastorType = {
   image: StaticImageData;
@@ -16,43 +16,43 @@ export type PastorType = {
 
 export const pastorData: PastorType[] = [
   {
-    image: revUdohImage,
-    name: 'APOSTLE (DR.) RICHARD UDOH',
+    image: pasSanniImage,
+    name: 'PASTOR SHOLA SANNI',
     title: 'Senior Pastor',
   },
   {
-    image: mamaReeImage,
-    name: 'PASTOR (MRS) RITA UDOH',
-    title: 'Co-founding Pastor',
-  },
-  {
-    image: revEdithImage,
-    name: 'REV. EDITH UDOH',
+    image: mamaTomiImage,
+    name: 'PASTOR (MRS) EYITOMILAYO SANNI',
     title: 'Pastor',
   },
   {
-    image: revTomiImage,
-    name: 'REV. TOMI OMOJUWA',
+    image: pasadeyemoImage,
+    name: 'Mummy. Adeyemo',
     title: 'Pastor',
   },
   {
-    image: revOshiyemiImage,
-    name: 'REV. ADESEYE OSHINYEMI',
+    image: pasomotoshoImage,
+    name: 'A/P ADEWALE OMOTOSHO',
     title: 'Pastor',
   },
   {
-    image: pasOmojuwaImage,
-    name: 'PASTOR (MRS.) OLAJUMOKE OMOJUWA',
+    image: pasbabatopeImage,
+    name: 'A/P BABATOPE OGUNLOKUN',
     title: 'Pastor',
   },
   {
-    image: pasSolaImage,
-    name: 'PASTOR SOLA EWEDEMI',
+    image: pastoluImage,
+    name: 'PASTOR (MRS.) TOLULOPE OGUNLOKUN',
     title: 'Pastor',
   },
   {
-    image: pasFidelisImage,
-    name: 'PASTOR FIDELIS OKONICHA',
+    image: pasadesolaImage,
+    name: 'PASTOR (MRS.) ADESOLA OLUBUKOLA',
+    title: 'Pastor',
+  },
+  {
+    image: pasemmaImage,
+    name: 'PASTOR EMMANUEL EGBOJA',
     title: 'Pastor',
   },
 ];

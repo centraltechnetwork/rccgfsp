@@ -11,14 +11,14 @@ interface StreamChannel {
 export const streamingChannels: StreamChannel[] = [
   {
     image: youtubeImage,
-    link: 'https://www.youtube.com/@TFHCOnlineTv',
+    link: 'https://youtube.com/@rccgfsplp7769?si=NaN_wulbgtXjSHoL',
   },
   {
     image: facebookImage,
-    link: 'https://www.facebook.com/tfhcng/',
+    link: 'https://web.facebook.com/faithsanctuaryparish.lagos.75',
   },
   {
     image: mixlrImage,
-    link: 'https://richardudoh.mixlr.com/',
+    link: 'https://mixlr.com/',
   },
 ];

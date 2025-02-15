@@ -1,3 +1,5 @@
+// Temporarily disable the AnnouncementSection code
+/*
 import { appAxios } from '@/api/axios';
 import LoadingIndicator from '@/common/LoadingIndicator/LoadingIndicator';
 import { sendCatchFeedback } from '@/functions/feedback';
@@ -28,6 +30,7 @@ const AnnouncementSection = () => {
     };
     getDevotional();
   }, []);
+
   return (
     <section id='announcement' className='px-primary py-[100px]'>
       <h2 className='text-primary font-bold text-[30px] lg:text-[40px] text-center font-secondary  mb-[11px]'>
@@ -62,5 +65,11 @@ const AnnouncementSection = () => {
     </section>
   );
 };
+
+export default AnnouncementSection;
+*/
+
+// Provide a dummy export
+const AnnouncementSection = () => null;
 
 export default AnnouncementSection;

@@ -15,10 +15,10 @@ const DownloadAppSection = () => {
           <span className='font-normal text-[51px] lg:text-[64px] text-warning font-cursive'>
             Download
           </span>{' '}
-          Father&apos;s House Church Mobile App
+          Faith Sanctuary Church Mobile App
         </h2>
         <p className='text-white text-md lg:text-xl font-normal mb-[64px] lg:md-[74px]'>
-          With the Father&apos;s House Mobile App, you can access the church on the go.
+          With the  Mobile App, you can access the church on the go.
           Have access to daily devotional, church events, announcement and even stream
           services online and listen to the church&apos;s podcast on the go. All in one
           place!
